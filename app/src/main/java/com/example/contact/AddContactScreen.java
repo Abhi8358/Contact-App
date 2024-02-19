@@ -27,6 +27,7 @@ public class AddContactScreen extends Fragment {
 
 
     public AddContactScreen() {
+        
         // Required empty public constructor
     }
 
