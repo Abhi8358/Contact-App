@@ -36,6 +36,7 @@ public class AddContactScreen extends Fragment {
         Bundle args = new Bundle();
         args.putSerializable("SendData",sendData);
         fragment.setArguments(args);
+        
         return fragment;
     }
 
