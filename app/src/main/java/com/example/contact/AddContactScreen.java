@@ -26,6 +26,8 @@ public class AddContactScreen extends Fragment {
     static final String TAG = "AddContactScreen";
 
 
+
+
     public AddContactScreen() {
         
         // Required empty public constructor
